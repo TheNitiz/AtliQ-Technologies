@@ -20,3 +20,13 @@ I have made dashboards which shows Insights like:
 * Revenue, Sales Qty by year
 * Profit % by market
 and more on dashboards.
+
+## Recommendations
+
+Based on the dashboards Insights:
+
+* Should Maintain healthy relationship with the customers in Bhubaneshwar, Surat, Chennai as they are highest profit % by market.
+* Make some stategy for Lucknow market as its revenue are less and also profit % are in negative.
+* Figure out what need to be done as sales quantity in Kanpur, Surat, Patna, Bhubaneshwar, Chennai are the lowest.
+* North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
+* Kanpur, Bangaluru have lowest profit % by market so make some strategy to stop further decline it and talk to its reginal manager what problem they facing and how to start making profit.
