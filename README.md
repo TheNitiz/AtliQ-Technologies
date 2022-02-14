@@ -17,7 +17,7 @@ Dataset are present online in SQL dump file [here](https://github.com/codebasics
 I have made dashboards which shows Insights like:
 * Top Customers by revenue and profit
 * Top Products by revenue and profit
-* Revenue, Sales Qty by year
+* Revenue, Sales Qty by [year](https://github.com/TheNitiz/AtliQ-Technologies/blob/main/Dashboard_1.png)
 * Profit % by market
 and more on dashboards.
 
