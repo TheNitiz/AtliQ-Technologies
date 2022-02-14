@@ -15,10 +15,11 @@ Showing Sales Insights in Simplistic terms i.e. how Business is doing, what are 
 
 Dataset are present online in SQL dump file [here](https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights)
 I have made dashboards which shows Insights like:
-* Top Customers by revenue and profit
-* Top Products by revenue and profit
-* Revenue, Sales Qty by [year](https://github.com/TheNitiz/AtliQ-Technologies/blob/main/Dashboard_1.png)
-* Profit % by market
+* Top Customers by revenue and profit [see](https://github.com/TheNitiz/AtliQ-Technologies/blob/main/Dashboard_2.png)
+* Top Products by revenue and profit [see](https://github.com/TheNitiz/AtliQ-Technologies/blob/main/Dashboard_6.png)
+* Revenue, Sales Qty by year [see](https://github.com/TheNitiz/AtliQ-Technologies/blob/main/Dashboard_1.png)
+* Profit % by market [see](https://github.com/TheNitiz/AtliQ-Technologies/blob/main/Dashboard_2.png)
+* Revenue Contribution % and profit margin % by North, South and Central Zone. [see](https://github.com/TheNitiz/AtliQ-Technologies/blob/main/Dashboard_5.png)
 and more on dashboards.
 
 ## Recommendations
