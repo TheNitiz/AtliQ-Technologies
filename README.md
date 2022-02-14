@@ -15,8 +15,8 @@ Showing Sales Insights in Simplistic terms i.e. how Business is doing, what are 
 
 Dataset are present online in SQL dump file [here](https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights)
 I have made dashboards which shows Insights like:
-  *Top Customers by revenue and profit
-  *Top Products by revenue and profit
-  *Revenue, Sales Qty by year
-  *Profit % by market
- and more on dashboards.
+*Top Customers by revenue and profit
+*Top Products by revenue and profit
+*Revenue, Sales Qty by year
+*Profit % by market
+and more on dashboards.
